@@ -1,0 +1,4 @@
+*.txt
+./pruebas
+.Ds_Store
+.gitignore
